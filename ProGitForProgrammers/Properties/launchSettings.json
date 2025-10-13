@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ProGitForProgrammers": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
